@@ -1,0 +1,15 @@
+flask
+flask-cors
+opencv-python
+numpy
+torch==2.1.0+cu118       # GPU-accelerated PyTorch (CUDA 11.8)
+torchvision==0.16.0+cu118 # GPU-accelerated torchvision
+requests
+pydub
+speechrecognition
+gtts
+google-generativeai
+geopy
+sounddevice
+wave
+onnxruntime-gpu         # Optimized ONNX inference on GPU
